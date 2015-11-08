@@ -1,0 +1,2998 @@
+   +++ VM10 2014-08-20 02:37:20 DEBUG   #000000 0-0-1 >
+   REPT ERROR LOG CSOP, FILE /n/plfsR4001/SOURCE/R40APP.src/cc/cr/omm/CRcsop.C, 
+   LINE 1999
+   FAIL to send SCstatus message to FT
+   END OF REPORT #000000++-
+
+   +++ VM10 2014-08-20 02:37:28 DEBUG   #000001 0-0-1 >
+   REPT DEBUG SPMAN TR (0x0), FILE /n/plfsR4001/SOURCE/SU1bR40.src/cc/sa/proc/SA
+   main.C, LINE 1469
+   goActive() allDuplexUp()==FALSE, Wait to Start SPAs.
+   spasStarted=FALSE.
+   END OF REPORT #000001++-
+
+   +++ VM10 2014-08-20 02:37:32 DEBUG   #000002 0-0-1 >
+   REPT ERROR LOG SMI, FILE ../RDBctrl.C, LINE 68
+   attach(): ctrlGDO attach() size(53471412) failed, rtn(-12000)
+   END OF REPORT #000002++-
+
+   +++ VM10 2014-08-20 02:37:32 DEBUG   #000003 0-0-1 >
+   REPT ERROR LOG SMI, FILE ../AILogger.C, LINE 82
+   /n/plfsR4001/SOURCE/SUR40.src/cc/csmi/src/startup/SMIStartup.C:812  Thread [4
+   151359296]
+   Fail to attach to RDBctrl
+   END OF REPORT #000003++-
+
+   +++ VM10 2014-08-20 02:37:32 DEBUG   #000004 0-0-1 >
+   REPT ERROR LOG SMI, FILE ../RDBctrl.C, LINE 68
+   attach(): ctrlGDO attach() size(53471412) failed, rtn(-12000)
+   END OF REPORT #000004++-
+
+   +++ VM10 2014-08-20 02:37:32 DEBUG   #000005 0-0-1 >
+   REPT ERROR LOG SMI, FILE ../AILogger.C, LINE 82
+   /n/plfsR4001/SOURCE/SUR40.src/cc/csmi/src/startup/SMIStartup.C:3254  Thread [
+   3872390000]
+   SMIStartup::checkESMID(), GDO attach() failed, rtn(-12000)
+   END OF REPORT #000005++-
+
+   +++ VM10 2014-08-20 02:37:38 DEBUG   #000006 0-0-1 >
+   REPT DEBUG SPMAN TR (0x0), FILE /n/plfsR4001/SOURCE/SU1bR40.src/cc/sa/proc/SA
+   main.C, LINE 527
+   SPMAN SPA Startup Monitoring: allDuplexUp()==TRUE.
+   Start All SPAs configured to run in SPM_TBL.
+   END OF REPORT #000006++-
+
+   +++ VM10 2014-08-20 02:41:19 DEBUG   #000000 0-0-1 >
+   REPT ERROR LOG CSOP, FILE /n/plfsR4001/SOURCE/R40APP.src/cc/cr/omm/CRcsop.C, 
+   LINE 1999
+   FAIL to send SCstatus message to FT
+   END OF REPORT #000000++-
+
+   +++ VM10 2014-08-20 02:41:28 DEBUG   #000001 0-0-1 >
+   REPT DEBUG SPMAN TR (0x0), FILE /n/plfsR4001/SOURCE/SU1bR40.src/cc/sa/proc/SA
+   main.C, LINE 1469
+   goActive() allDuplexUp()==FALSE, Wait to Start SPAs.
+   spasStarted=FALSE.
+   END OF REPORT #000001++-
+
+   +++ VM10 2014-08-20 02:41:33 DEBUG   #000002 0-0-1 >
+   REPT ERROR LOG SMI, FILE ../RDBctrl.C, LINE 68
+   attach(): ctrlGDO attach() size(53471412) failed, rtn(-12000)
+   END OF REPORT #000002++-
+
+   +++ VM10 2014-08-20 02:41:33 DEBUG   #000003 0-0-1 >
+   REPT ERROR LOG SMI, FILE ../AILogger.C, LINE 82
+   /n/plfsR4001/SOURCE/SUR40.src/cc/csmi/src/startup/SMIStartup.C:812  Thread [4
+   151965504]
+   Fail to attach to RDBctrl
+   END OF REPORT #000003++-
+
+   +++ VM10 2014-08-20 02:41:33 DEBUG   #000004 0-0-1 >
+   REPT ERROR LOG SMI, FILE ../RDBctrl.C, LINE 68
+   attach(): ctrlGDO attach() size(53471412) failed, rtn(-12000)
+   END OF REPORT #000004++-
+
+   +++ VM10 2014-08-20 02:41:33 DEBUG   #000005 0-0-1 >
+   REPT ERROR LOG SMI, FILE ../AILogger.C, LINE 82
+   /n/plfsR4001/SOURCE/SUR40.src/cc/csmi/src/startup/SMIStartup.C:3254  Thread [
+   3873438576]
+   SMIStartup::checkESMID(), GDO attach() failed, rtn(-12000)
+   END OF REPORT #000005++-
+
+   +++ VM10 2014-08-20 02:41:38 DEBUG   #000006 0-0-1 >
+   REPT DEBUG SPMAN TR (0x0), FILE /n/plfsR4001/SOURCE/SU1bR40.src/cc/sa/proc/SA
+   main.C, LINE 527
+   SPMAN SPA Startup Monitoring: allDuplexUp()==TRUE.
+   Start All SPAs configured to run in SPM_TBL.
+   END OF REPORT #000006++-
+
+   +++ VM10 2014-09-16 06:41:52 DEBUG   #000007 0-0-1 >
+   REPT ERROR LOG CEP14903, FILE /n/plfsR4001/SOURCE/SU1fR40.src/cc/cep/sa/SAins
+   tall.C, LINE 345
+   SPA NOT INSTALLED OR INCOMPLETE
+
+   END OF REPORT #000007++-
+
+   +++ VM10 2014-09-16 07:18:46 DEBUG   #000000 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   procName=OamGAUC
+   END OF REPORT #000000++-
+
+   +++ VM10 2014-09-16 07:18:46 DEBUG   #000001 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   serverName=GAUC, _serverid=0, servertyp=4
+   END OF REPORT #000001++-
+
+   +++ VM10 2014-09-16 07:18:46 DEBUG   #000002 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   _myQuename=OamGAUC_Q
+   END OF REPORT #000002++-
+
+   +++ VM10 2014-09-16 07:18:46 DEBUG   #000003 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcStartup()
+   END OF REPORT #000003++-
+
+   +++ VM10 2014-09-16 07:18:47 DEBUG   #000004 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000004++-
+
+   +++ VM10 2014-09-16 07:18:47 DEBUG   #000005 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22772
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1995 
+   OamCOMM Utility -- dtmiInit() : in while, please wait.
+   END OF REPORT #000005++-
+
+   +++ VM10 2014-09-16 07:18:48 DEBUG   #000006 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000006++-
+
+   +++ VM10 2014-09-16 07:18:50 DEBUG   #000007 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000007++-
+
+   +++ VM10 2014-09-16 07:18:51 DEBUG   #000008 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000008++-
+
+   +++ VM10 2014-09-16 07:18:52 DEBUG   #000009 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 23189
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamAC
+   TL
+   END OF REPORT #000009++-
+
+   +++ VM10 2014-09-16 07:18:52 DEBUG   #000010 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000010++-
+
+   +++ VM10 2014-09-16 07:18:53 DEBUG   #000011 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000011++-
+
+   +++ VM10 2014-09-16 07:18:54 DEBUG   #000012 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000012++-
+
+   +++ VM10 2014-09-16 07:18:55 DEBUG   #000013 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000013++-
+
+   +++ VM10 2014-09-16 07:18:55 DEBUG   #000014 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000014++-
+
+   +++ VM10 2014-09-16 07:18:56 DEBUG   #000015 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000015++-
+
+   +++ VM10 2014-09-16 07:18:57 DEBUG   #000016 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000016++-
+
+   +++ VM10 2014-09-16 07:18:58 DEBUG   #000017 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000017++-
+
+   +++ VM10 2014-09-16 07:18:59 DEBUG   #000018 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000018++-
+
+   +++ VM10 2014-09-16 07:19:00 DEBUG   #000019 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000019++-
+
+   +++ VM10 2014-09-16 07:19:01 DEBUG   #000020 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000020++-
+
+   +++ VM10 2014-09-16 07:19:02 DEBUG   #000021 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000021++-
+
+   +++ VM10 2014-09-16 07:19:03 DEBUG   #000022 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000022++-
+
+   +++ VM10 2014-09-16 07:19:04 DEBUG   #000023 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000023++-
+
+   +++ VM10 2014-09-16 07:19:05 DEBUG   #000024 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000024++-
+
+   +++ VM10 2014-09-16 07:19:06 DEBUG   #000025 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000025++-
+
+   +++ VM10 2014-09-16 07:19:07 DEBUG   #000026 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000026++-
+
+   +++ VM10 2014-09-16 07:19:08 DEBUG   #000027 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000027++-
+
+   +++ VM10 2014-09-16 07:19:09 DEBUG   #000028 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000028++-
+
+   +++ VM10 2014-09-16 07:19:10 DEBUG   #000029 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000029++-
+
+   +++ VM10 2014-09-16 07:19:11 DEBUG   #000030 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000030++-
+
+   +++ VM10 2014-09-16 07:19:12 DEBUG   #000031 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000031++-
+
+   +++ VM10 2014-09-16 07:19:13 DEBUG   #000032 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000032++-
+
+   +++ VM10 2014-09-16 07:19:14 DEBUG   #000033 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000033++-
+
+   +++ VM10 2014-09-16 07:19:15 DEBUG   #000034 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000034++-
+
+   +++ VM10 2014-09-16 07:19:16 DEBUG   #000035 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000035++-
+
+   +++ VM10 2014-09-16 07:19:17 DEBUG   #000036 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000036++-
+
+   +++ VM10 2014-09-16 07:19:18 DEBUG   #000037 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000037++-
+
+   +++ VM10 2014-09-16 07:19:19 DEBUG   #000038 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000038++-
+
+   +++ VM10 2014-09-16 07:19:20 DEBUG   #000039 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000039++-
+
+   +++ VM10 2014-09-16 07:19:21 DEBUG   #000040 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000040++-
+
+   +++ VM10 2014-09-16 07:19:22 DEBUG   #000041 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3037 
+   OamCOMM Utility -- commOamServerStart_up : in bInitEvent while, please wait.
+   END OF REPORT #000041++-
+
+   +++ VM10 2014-09-16 07:19:24 DEBUG   #000042 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +695 
+   OamCOMM Utility -- isPopulationAlreadyDone(): in while,please wait.
+   END OF REPORT #000042++-
+
+   +++ VM10 2014-09-16 07:19:24 DEBUG   #000043 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 22757
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +755 
+   OamCOMM Utility -- isPopulationAlreadyDone() : Error ocurrs, exc.getErrorId =
+   = 0
+   END OF REPORT #000043++-
+
+   +++ VM10 2014-09-16 07:19:24 DEBUG   #000044 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 23407
+   File:/vob/oam_generic_srv/src/xsdFunction/Src/PermanentCacheEventDeclarator.c
+   c +302 
+   PermanentCacheEventDeclarator::execDeclare() myDbClient is NULL!
+   END OF REPORT #000044++-
+
+   +++ VM10 2014-09-16 07:19:24 DEBUG   #000045 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 23408
+   File:/vob/oam_generic_srv/src/xsdFunction/Src/PermanentCacheEventDeclarator.c
+   c +302 
+   PermanentCacheEventDeclarator::execDeclare() myDbClient is NULL!
+   END OF REPORT #000045++-
+
+   +++ VM10 2014-09-16 07:20:11 DEBUG   #000046 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000046++-
+
+   +++ VM10 2014-09-16 07:20:11 DEBUG   #000047 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 23189
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamLI
+   MGNT
+   END OF REPORT #000047++-
+
+   +++ VM10 2014-09-16 07:20:12 DEBUG   #000048 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000048++-
+
+   +++ VM10 2014-09-16 07:20:13 DEBUG   #000049 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000049++-
+
+   +++ VM10 2014-09-16 07:20:14 DEBUG   #000050 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000050++-
+
+   +++ VM10 2014-09-16 07:20:15 DEBUG   #000051 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000051++-
+
+   +++ VM10 2014-09-16 07:20:16 DEBUG   #000052 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000052++-
+
+   +++ VM10 2014-09-16 07:20:17 DEBUG   #000053 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000053++-
+
+   +++ VM10 2014-09-16 07:20:18 DEBUG   #000054 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000054++-
+
+   +++ VM10 2014-09-16 07:20:19 DEBUG   #000055 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000055++-
+
+   +++ VM10 2014-09-16 07:20:20 DEBUG   #000056 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000056++-
+
+   +++ VM10 2014-09-16 07:20:21 DEBUG   #000057 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000057++-
+
+   +++ VM10 2014-09-16 07:20:22 DEBUG   #000058 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000058++-
+
+   +++ VM10 2014-09-16 07:20:23 DEBUG   #000059 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000059++-
+
+   +++ VM10 2014-09-16 07:20:24 DEBUG   #000060 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000060++-
+
+   +++ VM10 2014-09-16 07:20:25 DEBUG   #000061 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000061++-
+
+   +++ VM10 2014-09-16 07:20:26 DEBUG   #000062 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000062++-
+
+   +++ VM10 2014-09-16 07:20:27 DEBUG   #000063 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000063++-
+
+   +++ VM10 2014-09-16 07:20:28 DEBUG   #000064 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000064++-
+
+   +++ VM10 2014-09-16 07:20:29 DEBUG   #000065 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000065++-
+
+   +++ VM10 2014-09-16 07:20:30 DEBUG   #000066 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000066++-
+
+   +++ VM10 2014-09-16 07:20:31 DEBUG   #000067 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000067++-
+
+   +++ VM10 2014-09-16 07:20:32 DEBUG   #000068 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000068++-
+
+   +++ VM10 2014-09-16 07:20:33 DEBUG   #000069 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000069++-
+
+   +++ VM10 2014-09-16 07:20:34 DEBUG   #000070 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000070++-
+
+   +++ VM10 2014-09-16 07:20:35 DEBUG   #000071 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000071++-
+
+   +++ VM10 2014-09-16 07:20:36 DEBUG   #000072 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000072++-
+
+   +++ VM10 2014-09-16 07:20:37 DEBUG   #000073 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000073++-
+
+   +++ VM10 2014-09-16 07:20:38 DEBUG   #000074 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000074++-
+
+   +++ VM10 2014-09-16 07:20:39 DEBUG   #000075 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000075++-
+
+   +++ VM10 2014-09-16 07:20:40 DEBUG   #000076 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000076++-
+
+   +++ VM10 2014-09-16 07:20:40 DEBUG   #000077 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 23189
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamCO
+   MM
+   END OF REPORT #000077++-
+
+   +++ VM10 2014-09-16 07:20:41 DEBUG   #000078 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000078++-
+
+   +++ VM10 2014-09-16 07:20:42 DEBUG   #000079 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000079++-
+
+   +++ VM10 2014-09-16 07:20:43 DEBUG   #000080 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000080++-
+
+   +++ VM10 2014-09-16 07:20:44 DEBUG   #000081 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000081++-
+
+   +++ VM10 2014-09-16 07:20:45 DEBUG   #000082 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000082++-
+
+   +++ VM10 2014-09-16 07:20:46 DEBUG   #000083 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000083++-
+
+   +++ VM10 2014-09-16 07:20:47 DEBUG   #000084 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000084++-
+
+   +++ VM10 2014-09-16 07:20:48 DEBUG   #000085 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000085++-
+
+   +++ VM10 2014-09-16 07:20:49 DEBUG   #000086 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000086++-
+
+   +++ VM10 2014-09-16 07:20:50 DEBUG   #000087 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000087++-
+
+   +++ VM10 2014-09-16 07:25:12 DEBUG   #000088 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000088++-
+
+   +++ VM10 2014-09-16 07:25:13 DEBUG   #000089 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000089++-
+
+   +++ VM10 2014-09-16 07:25:14 DEBUG   #000090 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000090++-
+
+   +++ VM10 2014-09-16 07:25:15 DEBUG   #000091 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000091++-
+
+   +++ VM10 2014-09-16 07:25:16 DEBUG   #000092 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000092++-
+
+   +++ VM10 2014-09-16 07:25:17 DEBUG   #000093 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000093++-
+
+   +++ VM10 2014-09-16 07:25:18 DEBUG   #000094 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000094++-
+
+   +++ VM10 2014-09-16 07:25:19 DEBUG   #000095 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000095++-
+
+   +++ VM10 2014-09-16 07:25:20 DEBUG   #000096 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000096++-
+
+   +++ VM10 2014-09-16 07:25:21 DEBUG   #000097 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000097++-
+
+   +++ VM10 2014-09-16 07:25:22 DEBUG   #000098 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000098++-
+
+   +++ VM10 2014-09-16 07:25:23 DEBUG   #000099 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000099++-
+
+   +++ VM10 2014-09-16 07:25:24 DEBUG   #000100 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000100++-
+
+   +++ VM10 2014-09-16 07:25:25 DEBUG   #000101 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000101++-
+
+   +++ VM10 2014-09-16 07:25:26 DEBUG   #000102 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000102++-
+
+   +++ VM10 2014-09-16 07:25:27 DEBUG   #000103 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000103++-
+
+   +++ VM10 2014-09-16 07:25:28 DEBUG   #000104 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000104++-
+
+   +++ VM10 2014-09-16 07:25:29 DEBUG   #000105 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000105++-
+
+   +++ VM10 2014-09-16 07:25:30 DEBUG   #000106 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000106++-
+
+   +++ VM10 2014-09-16 07:25:31 DEBUG   #000107 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000107++-
+
+   +++ VM10 2014-09-16 07:25:32 DEBUG   #000108 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000108++-
+
+   +++ VM10 2014-09-16 07:25:33 DEBUG   #000109 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000109++-
+
+   +++ VM10 2014-09-16 07:25:34 DEBUG   #000110 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000110++-
+
+   +++ VM10 2014-09-16 07:25:35 DEBUG   #000111 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000111++-
+
+   +++ VM10 2014-09-16 07:25:36 DEBUG   #000112 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000112++-
+
+   +++ VM10 2014-09-16 07:25:37 DEBUG   #000113 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000113++-
+
+   +++ VM10 2014-09-16 07:25:38 DEBUG   #000114 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000114++-
+
+   +++ VM10 2014-09-16 07:25:39 DEBUG   #000115 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000115++-
+
+   +++ VM10 2014-09-16 07:25:40 DEBUG   #000116 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000116++-
+
+   +++ VM10 2014-09-16 07:25:41 DEBUG   #000117 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000117++-
+
+   +++ VM10 2014-09-16 07:25:42 DEBUG   #000118 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000118++-
+
+   +++ VM10 2014-09-16 07:25:43 DEBUG   #000119 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000119++-
+
+   +++ VM10 2014-09-16 07:25:44 DEBUG   #000120 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000120++-
+
+   +++ VM10 2014-09-16 07:25:45 DEBUG   #000121 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000121++-
+
+   +++ VM10 2014-09-16 07:25:46 DEBUG   #000122 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000122++-
+
+   +++ VM10 2014-09-16 07:25:47 DEBUG   #000123 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000123++-
+
+   +++ VM10 2014-09-16 07:25:48 DEBUG   #000124 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000124++-
+
+   +++ VM10 2014-09-16 07:25:49 DEBUG   #000125 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000125++-
+
+   +++ VM10 2014-09-16 07:25:50 DEBUG   #000126 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000126++-
+
+   +++ VM10 2014-09-16 07:25:51 DEBUG   #000127 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000127++-
+
+   +++ VM10 2014-09-16 07:30:13 DEBUG   #000128 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000128++-
+
+   +++ VM10 2014-09-16 07:30:14 DEBUG   #000129 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000129++-
+
+   +++ VM10 2014-09-16 07:30:15 DEBUG   #000130 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000130++-
+
+   +++ VM10 2014-09-16 07:30:16 DEBUG   #000131 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000131++-
+
+   +++ VM10 2014-09-16 07:30:17 DEBUG   #000132 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000132++-
+
+   +++ VM10 2014-09-16 07:30:18 DEBUG   #000133 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000133++-
+
+   +++ VM10 2014-09-16 07:30:19 DEBUG   #000134 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000134++-
+
+   +++ VM10 2014-09-16 07:30:20 DEBUG   #000135 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000135++-
+
+   +++ VM10 2014-09-16 07:30:21 DEBUG   #000136 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000136++-
+
+   +++ VM10 2014-09-16 07:30:22 DEBUG   #000137 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000137++-
+
+   +++ VM10 2014-09-16 07:30:23 DEBUG   #000138 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000138++-
+
+   +++ VM10 2014-09-16 07:30:24 DEBUG   #000139 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000139++-
+
+   +++ VM10 2014-09-16 07:30:25 DEBUG   #000140 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000140++-
+
+   +++ VM10 2014-09-16 07:30:26 DEBUG   #000141 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000141++-
+
+   +++ VM10 2014-09-16 07:30:27 DEBUG   #000142 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000142++-
+
+   +++ VM10 2014-09-16 07:30:28 DEBUG   #000143 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000143++-
+
+   +++ VM10 2014-09-16 07:30:29 DEBUG   #000144 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000144++-
+
+   +++ VM10 2014-09-16 07:30:30 DEBUG   #000145 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000145++-
+
+   +++ VM10 2014-09-16 07:30:31 DEBUG   #000146 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000146++-
+
+   +++ VM10 2014-09-16 07:30:32 DEBUG   #000147 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000147++-
+
+   +++ VM10 2014-09-16 07:30:33 DEBUG   #000148 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000148++-
+
+   +++ VM10 2014-09-16 07:30:34 DEBUG   #000149 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000149++-
+
+   +++ VM10 2014-09-16 07:30:35 DEBUG   #000150 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000150++-
+
+   +++ VM10 2014-09-16 07:30:36 DEBUG   #000151 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000151++-
+
+   +++ VM10 2014-09-16 07:30:37 DEBUG   #000152 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000152++-
+
+   +++ VM10 2014-09-16 07:30:38 DEBUG   #000153 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000153++-
+
+   +++ VM10 2014-09-16 07:30:39 DEBUG   #000154 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000154++-
+
+   +++ VM10 2014-09-16 07:30:40 DEBUG   #000155 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000155++-
+
+   +++ VM10 2014-09-16 07:30:41 DEBUG   #000156 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000156++-
+
+   +++ VM10 2014-09-16 07:30:42 DEBUG   #000157 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000157++-
+
+   +++ VM10 2014-09-16 07:30:43 DEBUG   #000158 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000158++-
+
+   +++ VM10 2014-09-16 07:30:44 DEBUG   #000159 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000159++-
+
+   +++ VM10 2014-09-16 07:30:45 DEBUG   #000160 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000160++-
+
+   +++ VM10 2014-09-16 07:30:46 DEBUG   #000161 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000161++-
+
+   +++ VM10 2014-09-16 07:30:47 DEBUG   #000162 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000162++-
+
+   +++ VM10 2014-09-16 07:30:48 DEBUG   #000163 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000163++-
+
+   +++ VM10 2014-09-16 07:30:49 DEBUG   #000164 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000164++-
+
+   +++ VM10 2014-09-16 07:30:50 DEBUG   #000165 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000165++-
+
+   +++ VM10 2014-09-16 07:30:51 DEBUG   #000166 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000166++-
+
+   +++ VM10 2014-09-16 07:30:52 DEBUG   #000167 0-0-1 >
+   REPT ERROR LOG OamGNOTF, FILE ../AILogger.C, LINE 82
+   TID: 22667
+   File:/vob/nghlr_add_notf/src/gnotfadd/Src/GnotfADDJobHandler.cc +76 
+   GnotfADDJobHandler::GnotfADDJobHandler(): getIpAddr(hostname, _FEIpAddress) f
+   ailed. retry.
+   END OF REPORT #000167++-
+
+   +++ VM10 2014-09-16 07:31:48 DEBUG   #000168 0-0-1 >
+   REPT ERROR LOG SPMAN, FILE /n/plfsR4001/SOURCE/40.6.src/cc/sa/proc/SAinstProc
+   .C, LINE 579
+   SAcrFunc: cannot sent SAcrStartAck to CEP
+   END OF REPORT #000168++-
+
+   +++ VM10 2014-09-16 07:33:33 DEBUG   #000169 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000169++-
+
+   +++ VM10 2014-09-16 07:33:33 DEBUG   #000170 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcCleanup()
+   END OF REPORT #000170++-
+
+   +++ VM10 2014-09-16 07:33:33 DEBUG   #000171 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   exiting
+   END OF REPORT #000171++-
+
+   +++ VM10 2014-09-16 07:34:10 DEBUG   #000172 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   procName=OamGAUC
+   END OF REPORT #000172++-
+
+   +++ VM10 2014-09-16 07:34:10 DEBUG   #000173 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   serverName=GAUC, _serverid=0, servertyp=4
+   END OF REPORT #000173++-
+
+   +++ VM10 2014-09-16 07:34:10 DEBUG   #000174 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   _myQuename=OamGAUC_Q
+   END OF REPORT #000174++-
+
+   +++ VM10 2014-09-16 07:34:10 DEBUG   #000175 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcStartup()
+   END OF REPORT #000175++-
+
+   +++ VM10 2014-09-16 07:34:10 DEBUG   #000176 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000176++-
+
+   +++ VM10 2014-09-16 07:34:10 DEBUG   #000177 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28793
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1995 
+   OamCOMM Utility -- dtmiInit() : in while, please wait.
+   END OF REPORT #000177++-
+
+   +++ VM10 2014-09-16 07:34:11 DEBUG   #000178 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000178++-
+
+   +++ VM10 2014-09-16 07:34:12 DEBUG   #000179 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 28848
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamAC
+   TL
+   END OF REPORT #000179++-
+
+   +++ VM10 2014-09-16 07:34:14 DEBUG   #000180 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000180++-
+
+   +++ VM10 2014-09-16 07:34:14 DEBUG   #000181 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000181++-
+
+   +++ VM10 2014-09-16 07:34:15 DEBUG   #000182 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000182++-
+
+   +++ VM10 2014-09-16 07:34:16 DEBUG   #000183 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000183++-
+
+   +++ VM10 2014-09-16 07:34:17 DEBUG   #000184 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000184++-
+
+   +++ VM10 2014-09-16 07:34:18 DEBUG   #000185 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000185++-
+
+   +++ VM10 2014-09-16 07:34:19 DEBUG   #000186 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000186++-
+
+   +++ VM10 2014-09-16 07:34:20 DEBUG   #000187 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000187++-
+
+   +++ VM10 2014-09-16 07:34:21 DEBUG   #000188 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000188++-
+
+   +++ VM10 2014-09-16 07:34:22 DEBUG   #000189 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000189++-
+
+   +++ VM10 2014-09-16 07:34:23 DEBUG   #000190 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000190++-
+
+   +++ VM10 2014-09-16 07:34:24 DEBUG   #000191 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000191++-
+
+   +++ VM10 2014-09-16 07:34:25 DEBUG   #000192 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000192++-
+
+   +++ VM10 2014-09-16 07:34:26 DEBUG   #000193 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000193++-
+
+   +++ VM10 2014-09-16 07:34:27 DEBUG   #000194 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000194++-
+
+   +++ VM10 2014-09-16 07:34:28 DEBUG   #000195 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000195++-
+
+   +++ VM10 2014-09-16 07:34:29 DEBUG   #000196 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000196++-
+
+   +++ VM10 2014-09-16 07:34:30 DEBUG   #000197 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000197++-
+
+   +++ VM10 2014-09-16 07:34:31 DEBUG   #000198 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000198++-
+
+   +++ VM10 2014-09-16 07:34:32 DEBUG   #000199 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000199++-
+
+   +++ VM10 2014-09-16 07:34:33 DEBUG   #000200 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000200++-
+
+   +++ VM10 2014-09-16 07:34:34 DEBUG   #000201 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000201++-
+
+   +++ VM10 2014-09-16 07:34:35 DEBUG   #000202 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000202++-
+
+   +++ VM10 2014-09-16 07:34:36 DEBUG   #000203 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000203++-
+
+   +++ VM10 2014-09-16 07:34:37 DEBUG   #000204 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000204++-
+
+   +++ VM10 2014-09-16 07:34:38 DEBUG   #000205 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000205++-
+
+   +++ VM10 2014-09-16 07:34:39 DEBUG   #000206 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000206++-
+
+   +++ VM10 2014-09-16 07:34:40 DEBUG   #000207 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000207++-
+
+   +++ VM10 2014-09-16 07:34:41 DEBUG   #000208 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000208++-
+
+   +++ VM10 2014-09-16 07:34:42 DEBUG   #000209 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000209++-
+
+   +++ VM10 2014-09-16 07:34:43 DEBUG   #000210 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3037 
+   OamCOMM Utility -- commOamServerStart_up : in bInitEvent while, please wait.
+   END OF REPORT #000210++-
+
+   +++ VM10 2014-09-16 07:34:43 DEBUG   #000211 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 28848
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamLI
+   MGNT
+   END OF REPORT #000211++-
+
+   +++ VM10 2014-09-16 07:34:45 DEBUG   #000212 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +695 
+   OamCOMM Utility -- isPopulationAlreadyDone(): in while,please wait.
+   END OF REPORT #000212++-
+
+   +++ VM10 2014-09-16 07:34:45 DEBUG   #000213 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +695 
+   OamCOMM Utility -- isPopulationAlreadyDone(): in while,please wait.
+   END OF REPORT #000213++-
+
+   +++ VM10 2014-09-16 07:34:46 DEBUG   #000214 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1446 
+   OamCOMM Utility -- getAppOnCurrentStation() --get DNlist : in while, please w
+   ait.
+   END OF REPORT #000214++-
+
+   +++ VM10 2014-09-16 07:34:46 DEBUG   #000215 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1334 
+   OamCOMM Utility -- getfSApp() -- get fSAApp : in while, please wait.
+   END OF REPORT #000215++-
+
+   +++ VM10 2014-09-16 07:34:47 DEBUG   #000216 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/specific/auc/Src/FirstImsiRangeMgnt.cc +340 
+   dnListLength is (0)
+   END OF REPORT #000216++-
+
+   +++ VM10 2014-09-16 07:34:53 DEBUG   #000217 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/specific/auc/Src/FirstImsiRangeMgnt.cc +353 
+   Out of total Entries (0), 0 threads in progress
+   END OF REPORT #000217++-
+
+   +++ VM10 2014-09-16 07:34:55 DEBUG   #000218 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 28788
+   File:/vob/oam_common_srv/src/specific/auc/Src/FirstImsiRangeMgnt.cc +340 
+   dnListLength is (0)
+   END OF REPORT #000218++-
+
+   +++ VM10 2014-09-16 07:35:06 DEBUG   #000219 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 28848
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamCO
+   MM
+   END OF REPORT #000219++-
+
+   +++ VM10 2014-09-16 07:45:10 DEBUG   #000220 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000220++-
+
+   +++ VM10 2014-09-16 07:45:10 DEBUG   #000221 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000221++-
+
+   +++ VM10 2014-09-16 07:45:10 DEBUG   #000222 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000222++-
+
+   +++ VM10 2014-09-16 07:45:10 DEBUG   #000000 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000000++-
+
+   +++ VM10 2014-09-16 07:48:44 DEBUG   #000001 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000001++-
+
+   +++ VM10 2014-09-16 07:50:02 DEBUG   #000002 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000002++-
+
+   +++ VM10 2014-09-16 07:54:12 DEBUG   #000003 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000003++-
+
+   +++ VM10 2014-09-16 07:54:13 DEBUG   #000004 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000004++-
+
+   +++ VM10 2014-09-16 07:54:13 DEBUG   #000005 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000005++-
+
+   +++ VM10 2014-09-16 07:58:09 DEBUG   #000006 0-0-1 >
+   REPT ERROR LOG SPMAN, FILE /n/plfsR4001/SOURCE/R40APP.src/cc/sa/proc/SAbaseOp
+   .C, LINE 452
+   Error clearing timer, ret = -19005
+   END OF REPORT #000006++-
+
+   +++ VM10 2014-09-16 07:58:09 DEBUG   #000007 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000007++-
+
+   +++ VM10 2014-09-16 07:58:09 DEBUG   #000008 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcCleanup()
+   END OF REPORT #000008++-
+
+   +++ VM10 2014-09-16 07:58:09 DEBUG   #000009 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   exiting
+   END OF REPORT #000009++-
+
+   +++ VM10 2014-09-16 07:59:13 DEBUG   #000010 0-0-1 >
+   REPT ERROR LOG INIT, FILE /n/plfsR4001/SOURCE/40.5.src/cc/init/proc/INtimerpr
+   c.C, LINE 211
+   Invalid process entry 52
+   END OF REPORT #000010++-
+
+   +++ VM10 2014-09-16 08:08:17 DEBUG   #000011 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   procName=OamGAUC
+   END OF REPORT #000011++-
+
+   +++ VM10 2014-09-16 08:08:17 DEBUG   #000012 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   serverName=GAUC, _serverid=0, servertyp=4
+   END OF REPORT #000012++-
+
+   +++ VM10 2014-09-16 08:08:17 DEBUG   #000013 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   _myQuename=OamGAUC_Q
+   END OF REPORT #000013++-
+
+   +++ VM10 2014-09-16 08:08:17 DEBUG   #000014 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcStartup()
+   END OF REPORT #000014++-
+
+   +++ VM10 2014-09-16 08:08:18 DEBUG   #000015 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 13233
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000015++-
+
+   +++ VM10 2014-09-16 08:08:18 DEBUG   #000016 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 13238
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1995 
+   OamCOMM Utility -- dtmiInit() : in while, please wait.
+   END OF REPORT #000016++-
+
+   +++ VM10 2014-09-16 08:08:19 DEBUG   #000017 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 13233
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000017++-
+
+   +++ VM10 2014-09-16 08:08:20 DEBUG   #000018 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 13293
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamAC
+   TL
+   END OF REPORT #000018++-
+
+   +++ VM10 2014-09-16 08:08:22 DEBUG   #000019 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000019++-
+
+   +++ VM10 2014-09-16 08:08:27 DEBUG   #000020 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000020++-
+
+   +++ VM10 2014-09-16 08:08:27 DEBUG   #000021 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcCleanup()
+   END OF REPORT #000021++-
+
+   +++ VM10 2014-09-16 08:08:27 DEBUG   #000022 0-0-1 >
+   REPT ERROR LOG OAM100, FILE /n/plflR4001/lx/R40APP.bld/cc/aspin/com/lucent/as
+   pin/applicationmanagement/AIApplicationManager.C, LINE 979
+   requestedState field must be IN_SERVICE or OUT_OF_SERVICE.
+   END OF REPORT #000022++-
+
+   +++ VM10 2014-09-16 08:10:16 DEBUG   #000023 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   procName=OamGAUC
+   END OF REPORT #000023++-
+
+   +++ VM10 2014-09-16 08:10:16 DEBUG   #000024 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   serverName=GAUC, _serverid=0, servertyp=4
+   END OF REPORT #000024++-
+
+   +++ VM10 2014-09-16 08:10:16 DEBUG   #000025 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   _myQuename=OamGAUC_Q
+   END OF REPORT #000025++-
+
+   +++ VM10 2014-09-16 08:10:16 DEBUG   #000026 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcStartup()
+   END OF REPORT #000026++-
+
+   +++ VM10 2014-09-16 08:10:16 DEBUG   #000027 0-0-1 >
+   REPT ERROR LOG OamGLOAD, FILE ../AILogger.C, LINE 82
+   TID: 16762
+   File:/vob/fwk_load/mcas/gload/src/GLoad_dbConnector.cc +121 
+   GDMI Exception while DbClient connect code =SCHEMA_NOT_FOUND(28), MetaSchema:
+   :checkSch schema file [/sn/csdm/daf/data/metadata/hlr-8650-8650-10-01-01-01-m
+   etadata.ldif]  not readable
+   , to retry after several seconds.
+   END OF REPORT #000027++-
+
+   +++ VM10 2014-09-16 08:10:17 DEBUG   #000028 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 16858
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000028++-
+
+   +++ VM10 2014-09-16 08:10:17 DEBUG   #000029 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 16863
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1995 
+   OamCOMM Utility -- dtmiInit() : in while, please wait.
+   END OF REPORT #000029++-
+
+   +++ VM10 2014-09-16 08:10:18 DEBUG   #000030 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 16858
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000030++-
+
+   +++ VM10 2014-09-16 08:10:19 DEBUG   #000031 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 16916
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamAC
+   TL
+   END OF REPORT #000031++-
+
+   +++ VM10 2014-09-16 08:10:21 DEBUG   #000032 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000032++-
+
+   +++ VM10 2014-09-16 08:10:21 DEBUG   #000033 0-0-1 >
+   REPT ERROR LOG OamGLOAD, FILE ../AILogger.C, LINE 82
+   TID: 16762
+   File:/vob/fwk_load/mcas/gload/src/GLoad_dbConnector.cc +121 
+   GDMI Exception while DbClient connect code =SCHEMA_NOT_FOUND(28), MetaSchema:
+   :checkSch schema file [/sn/csdm/daf/data/metadata/hlr-8650-8650-10-01-01-01-m
+   etadata.ldif]  not readable
+   , to retry after several seconds.
+   END OF REPORT #000033++-
+
+   +++ VM10 2014-09-16 08:10:26 DEBUG   #000034 0-0-1 >
+   REPT ERROR LOG OamGLOAD, FILE ../AILogger.C, LINE 82
+   TID: 16762
+   File:/vob/fwk_load/mcas/gload/src/GLoad_dbConnector.cc +121 
+   GDMI Exception while DbClient connect code =SCHEMA_NOT_FOUND(28), MetaSchema:
+   :checkSch schema file [/sn/csdm/daf/data/metadata/hlr-8650-8650-10-01-01-01-m
+   etadata.ldif]  not readable
+   , to retry after several seconds.
+   END OF REPORT #000034++-
+
+   +++ VM10 2014-09-16 08:10:27 DEBUG   #000035 0-0-1 >
+   REPT ERROR LOG OamGSUITE, FILE ../AILogger.C, LINE 82
+   TID: 16716
+   File:/vob/fwk_load/mcas/gsuite/src/common/GSuiteDBCommon.cc +767 
+   GSuiteSignalCallBack::onSignal() - sig_=6
+
+   END OF REPORT #000035++-
+
+   +++ VM10 2014-09-16 08:10:27 DEBUG   #000036 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000036++-
+
+   +++ VM10 2014-09-16 08:10:27 DEBUG   #000037 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcCleanup()
+   END OF REPORT #000037++-
+
+   +++ VM10 2014-09-16 08:10:27 DEBUG   #000038 0-0-1 >
+   REPT ERROR LOG OAM100, FILE /n/plflR4001/lx/R40APP.bld/cc/aspin/com/lucent/as
+   pin/applicationmanagement/AIApplicationManager.C, LINE 979
+   requestedState field must be IN_SERVICE or OUT_OF_SERVICE.
+   END OF REPORT #000038++-
+
+   +++ VM10 2014-09-16 08:10:27 DEBUG   #000039 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   exiting
+   END OF REPORT #000039++-
+
+   +++ VM10 2014-09-16 08:15:27 DEBUG   #000040 0-0-1 >
+   REPT ERROR LOG INIT, FILE /n/plfsR4001/SOURCE/40.5.src/cc/init/proc/INtimerpr
+   c.C, LINE 211
+   Invalid process entry 44
+   END OF REPORT #000040++-
+
+   +++ VM10 2014-09-16 08:18:44 DEBUG   #000041 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   procName=OamGAUC
+   END OF REPORT #000041++-
+
+   +++ VM10 2014-09-16 08:18:44 DEBUG   #000042 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   serverName=GAUC, _serverid=0, servertyp=4
+   END OF REPORT #000042++-
+
+   +++ VM10 2014-09-16 08:18:44 DEBUG   #000043 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   _myQuename=OamGAUC_Q
+   END OF REPORT #000043++-
+
+   +++ VM10 2014-09-16 08:18:44 DEBUG   #000044 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcStartup()
+   END OF REPORT #000044++-
+
+   +++ VM10 2014-09-16 08:18:44 DEBUG   #000045 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000045++-
+
+   +++ VM10 2014-09-16 08:18:44 DEBUG   #000046 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21106
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1995 
+   OamCOMM Utility -- dtmiInit() : in while, please wait.
+   END OF REPORT #000046++-
+
+   +++ VM10 2014-09-16 08:18:45 DEBUG   #000047 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000047++-
+
+   +++ VM10 2014-09-16 08:18:46 DEBUG   #000048 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 21162
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamAC
+   TL
+   END OF REPORT #000048++-
+
+   +++ VM10 2014-09-16 08:18:48 DEBUG   #000049 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000049++-
+
+   +++ VM10 2014-09-16 08:18:48 DEBUG   #000050 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000050++-
+
+   +++ VM10 2014-09-16 08:18:49 DEBUG   #000051 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000051++-
+
+   +++ VM10 2014-09-16 08:18:50 DEBUG   #000052 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000052++-
+
+   +++ VM10 2014-09-16 08:18:51 DEBUG   #000053 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000053++-
+
+   +++ VM10 2014-09-16 08:18:52 DEBUG   #000054 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000054++-
+
+   +++ VM10 2014-09-16 08:18:53 DEBUG   #000055 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000055++-
+
+   +++ VM10 2014-09-16 08:18:54 DEBUG   #000056 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000056++-
+
+   +++ VM10 2014-09-16 08:18:55 DEBUG   #000057 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000057++-
+
+   +++ VM10 2014-09-16 08:18:56 DEBUG   #000058 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000058++-
+
+   +++ VM10 2014-09-16 08:18:57 DEBUG   #000059 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000059++-
+
+   +++ VM10 2014-09-16 08:18:58 DEBUG   #000060 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000060++-
+
+   +++ VM10 2014-09-16 08:18:59 DEBUG   #000061 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000061++-
+
+   +++ VM10 2014-09-16 08:19:00 DEBUG   #000062 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000062++-
+
+   +++ VM10 2014-09-16 08:19:01 DEBUG   #000063 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000063++-
+
+   +++ VM10 2014-09-16 08:19:02 DEBUG   #000064 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000064++-
+
+   +++ VM10 2014-09-16 08:19:03 DEBUG   #000065 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000065++-
+
+   +++ VM10 2014-09-16 08:19:04 DEBUG   #000066 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000066++-
+
+   +++ VM10 2014-09-16 08:19:05 DEBUG   #000067 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000067++-
+
+   +++ VM10 2014-09-16 08:19:06 DEBUG   #000068 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000068++-
+
+   +++ VM10 2014-09-16 08:19:07 DEBUG   #000069 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000069++-
+
+   +++ VM10 2014-09-16 08:19:08 DEBUG   #000070 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000070++-
+
+   +++ VM10 2014-09-16 08:19:09 DEBUG   #000071 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000071++-
+
+   +++ VM10 2014-09-16 08:19:10 DEBUG   #000072 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000072++-
+
+   +++ VM10 2014-09-16 08:19:11 DEBUG   #000073 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000073++-
+
+   +++ VM10 2014-09-16 08:19:12 DEBUG   #000074 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000074++-
+
+   +++ VM10 2014-09-16 08:19:13 DEBUG   #000075 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000075++-
+
+   +++ VM10 2014-09-16 08:19:14 DEBUG   #000076 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000076++-
+
+   +++ VM10 2014-09-16 08:19:15 DEBUG   #000077 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3037 
+   OamCOMM Utility -- commOamServerStart_up : in bInitEvent while, please wait.
+   END OF REPORT #000077++-
+
+   +++ VM10 2014-09-16 08:19:17 DEBUG   #000078 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +695 
+   OamCOMM Utility -- isPopulationAlreadyDone(): in while,please wait.
+   END OF REPORT #000078++-
+
+   +++ VM10 2014-09-16 08:19:17 DEBUG   #000079 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +755 
+   OamCOMM Utility -- isPopulationAlreadyDone() : Error ocurrs, exc.getErrorId =
+   = 0
+   END OF REPORT #000079++-
+
+   +++ VM10 2014-09-16 08:19:17 DEBUG   #000080 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21348
+   File:/vob/oam_generic_srv/src/xsdFunction/Src/PermanentCacheEventDeclarator.c
+   c +302 
+   PermanentCacheEventDeclarator::execDeclare() myDbClient is NULL!
+   END OF REPORT #000080++-
+
+   +++ VM10 2014-09-16 08:19:17 DEBUG   #000081 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21350
+   File:/vob/oam_generic_srv/src/xsdFunction/Src/PermanentCacheEventDeclarator.c
+   c +302 
+   PermanentCacheEventDeclarator::execDeclare() myDbClient is NULL!
+   END OF REPORT #000081++-
+
+   +++ VM10 2014-09-16 08:19:17 DEBUG   #000082 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21349
+   File:/vob/oam_generic_srv/src/xsdFunction/Src/PermanentCacheEventDeclarator.c
+   c +302 
+   PermanentCacheEventDeclarator::execDeclare() myDbClient is NULL!
+   END OF REPORT #000082++-
+
+   +++ VM10 2014-09-16 08:19:17 DEBUG   #000083 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21351
+   File:/vob/oam_generic_srv/src/xsdFunction/Src/PermanentCacheEventDeclarator.c
+   c +302 
+   PermanentCacheEventDeclarator::execDeclare() myDbClient is NULL!
+   END OF REPORT #000083++-
+
+   +++ VM10 2014-09-16 08:19:17 DEBUG   #000084 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21352
+   File:/vob/oam_generic_srv/src/xsdFunction/Src/PermanentCacheEventDeclarator.c
+   c +302 
+   PermanentCacheEventDeclarator::execDeclare() myDbClient is NULL!
+   END OF REPORT #000084++-
+
+   +++ VM10 2014-09-16 08:19:17 DEBUG   #000085 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21353
+   File:/vob/oam_generic_srv/src/xsdFunction/Src/PermanentCacheEventDeclarator.c
+   c +302 
+   PermanentCacheEventDeclarator::execDeclare() myDbClient is NULL!
+   END OF REPORT #000085++-
+
+   +++ VM10 2014-09-16 08:19:17 DEBUG   #000086 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21354
+   File:/vob/oam_generic_srv/src/xsdFunction/Src/PermanentCacheEventDeclarator.c
+   c +302 
+   PermanentCacheEventDeclarator::execDeclare() myDbClient is NULL!
+   END OF REPORT #000086++-
+
+   +++ VM10 2014-09-16 08:24:22 DEBUG   #000087 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1137 
+   OamCOMM Utility -- writeEndOfPopulationInDataBase() : in while ,please wait.
+   END OF REPORT #000087++-
+
+   +++ VM10 2014-09-16 08:24:22 DEBUG   #000088 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1446 
+   OamCOMM Utility -- getAppOnCurrentStation() --get DNlist : in while, please w
+   ait.
+   END OF REPORT #000088++-
+
+   +++ VM10 2014-09-16 08:24:22 DEBUG   #000089 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1334 
+   OamCOMM Utility -- getfSApp() -- get fSAApp : in while, please wait.
+   END OF REPORT #000089++-
+
+   +++ VM10 2014-09-16 08:24:23 DEBUG   #000090 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 21162
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamLI
+   MGNT
+   END OF REPORT #000090++-
+
+   +++ VM10 2014-09-16 08:24:24 DEBUG   #000091 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/specific/auc/Src/FirstImsiRangeMgnt.cc +340 
+   dnListLength is (0)
+   END OF REPORT #000091++-
+
+   +++ VM10 2014-09-16 08:24:30 DEBUG   #000092 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/specific/auc/Src/FirstImsiRangeMgnt.cc +353 
+   Out of total Entries (0), 0 threads in progress
+   END OF REPORT #000092++-
+
+   +++ VM10 2014-09-16 08:24:31 DEBUG   #000093 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/specific/auc/Src/FirstImsiRangeMgnt.cc +340 
+   dnListLength is (0)
+   END OF REPORT #000093++-
+
+   +++ VM10 2014-09-16 08:24:37 DEBUG   #000094 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 21102
+   File:/vob/oam_common_srv/src/specific/auc/Src/FirstImsiRangeMgnt.cc +353 
+   Out of total Entries (0), 0 threads in progress
+   END OF REPORT #000094++-
+
+   +++ VM10 2014-09-16 08:24:48 DEBUG   #000095 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 21162
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamCO
+   MM
+   END OF REPORT #000095++-
+
+   +++ VM10 2014-09-16 08:31:35 DEBUG   #000096 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000096++-
+
+   +++ VM10 2014-09-16 08:31:36 DEBUG   #000097 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000097++-
+
+   +++ VM10 2014-09-16 08:31:36 DEBUG   #000098 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000098++-
+
+   +++ VM10 2014-09-16 08:31:36 DEBUG   #000099 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000099++-
+
+   +++ VM10 2014-09-16 08:36:36 DEBUG   #000100 0-0-1 >
+   REPT ERROR LOG INIT, FILE /n/plfsR4001/SOURCE/40.5.src/cc/init/proc/INtimerpr
+   c.C, LINE 211
+   Invalid process entry 52
+   END OF REPORT #000100++-
+
+   +++ VM10 2014-09-16 08:44:46 DEBUG   #000101 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000101++-
+
+   +++ VM10 2014-09-16 08:44:47 DEBUG   #000102 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000102++-
+
+   +++ VM10 2014-09-16 08:44:47 DEBUG   #000103 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000103++-
+
+   +++ VM10 2014-09-16 08:47:05 DEBUG   #000104 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000104++-
+
+   +++ VM10 2014-09-16 08:47:06 DEBUG   #000105 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000105++-
+
+   +++ VM10 2014-09-16 08:47:06 DEBUG   #000106 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000106++-
+
+   +++ VM10 2014-09-16 08:52:06 DEBUG   #000107 0-0-1 >
+   REPT ERROR LOG INIT, FILE /n/plfsR4001/SOURCE/40.5.src/cc/init/proc/INtimerpr
+   c.C, LINE 211
+   Invalid process entry 52
+   END OF REPORT #000107++-
+
+   +++ VM10 2014-09-16 09:07:00 DEBUG   #000108 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000108++-
+
+   +++ VM10 2014-09-16 09:07:01 DEBUG   #000109 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000109++-
+
+   +++ VM10 2014-09-16 09:07:01 DEBUG   #000110 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000110++-
+
+   +++ VM10 2014-09-16 09:12:01 DEBUG   #000111 0-0-1 >
+   REPT ERROR LOG INIT, FILE /n/plfsR4001/SOURCE/40.5.src/cc/init/proc/INtimerpr
+   c.C, LINE 211
+   Invalid process entry 52
+   END OF REPORT #000111++-
+
+   +++ VM10 2014-09-16 09:21:19 DEBUG   #000112 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_hss_sl/initdu4lte/src/LtePDLS.cc, line:467 
+   i returned by atoi: 1
+   END OF REPORT #000112++-
+
+   +++ VM10 2014-09-16 09:21:19 DEBUG   #000113 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_hss_sl/initdu4lte/src/LtePDLS.cc, line:676 
+   LtePDLS::svcInitialize() FraudList4PDLS Init() not finished, maybe FraudList 
+   func was disabled by configuration.
+   END OF REPORT #000113++-
+
+   +++ VM10 2014-09-16 09:21:24 DEBUG   #000114 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:58 
+    LteDbConnector::onConnect Begin 0
+   END OF REPORT #000114++-
+
+   +++ VM10 2014-09-16 09:21:24 DEBUG   #000115 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:62 
+   start to LoadProfiles!
+   END OF REPORT #000115++-
+
+   +++ VM10 2014-09-16 09:21:24 DEBUG   #000116 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:72 
+   data profile /sn/sps/SDM100/bin/data/lte-dataprofile.xml
+   END OF REPORT #000116++-
+
+   +++ VM10 2014-09-16 09:21:24 DEBUG   #000117 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:91 
+    LteDbConnector::onConnect LoadProfiles done 
+   END OF REPORT #000117++-
+
+   +++ VM10 2014-09-16 09:21:24 DEBUG   #000118 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:102 
+   LteDbConnector::onConnect call for end of popul
+   END OF REPORT #000118++-
+
+   +++ VM10 2014-09-16 09:21:24 DEBUG   #000119 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:104 
+   availableNrgKey=1, status=0
+   END OF REPORT #000119++-
+
+   +++ VM10 2014-09-16 09:21:36 DEBUG   #000120 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x875), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_hss_sl/initdu4lte/src/LtePDLS.cc, line:1542 
+   Could not get the Local Host information
+   END OF REPORT #000120++-
+
+   +++ VM10 2014-09-16 09:21:36 DEBUG   #000121 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x875), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_hss_sl/initdu4lte/src/LtePDLS.cc, line:1122 
+   Diameter Stack Init failed!
+   END OF REPORT #000121++-
+
+   +++ VM10 2014-09-16 09:21:37 DEBUG   #000122 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000122++-
+
+   +++ VM10 2014-09-16 09:21:38 DEBUG   #000123 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000123++-
+
+   +++ VM10 2014-09-16 09:21:38 DEBUG   #000124 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000124++-
+
+   +++ VM10 2014-09-16 09:26:38 DEBUG   #000125 0-0-1 >
+   REPT ERROR LOG INIT, FILE /n/plfsR4001/SOURCE/40.5.src/cc/init/proc/INtimerpr
+   c.C, LINE 211
+   Invalid process entry 52
+   END OF REPORT #000125++-
+
+   +++ VM10 2014-09-17 01:50:20 DEBUG   #000126 0-0-1 >
+   REPT ERROR LOG SPMAN, FILE /n/plfsR4001/SOURCE/R40APP.src/cc/sa/proc/SAbaseOp
+   .C, LINE 452
+   Error clearing timer, ret = -19005
+   END OF REPORT #000126++-
+
+   +++ VM10 2014-09-17 01:50:20 DEBUG   #000127 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000127++-
+
+   +++ VM10 2014-09-17 01:50:20 DEBUG   #000128 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcCleanup()
+   END OF REPORT #000128++-
+
+   +++ VM10 2014-09-17 01:50:20 DEBUG   #000129 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   exiting
+   END OF REPORT #000129++-
+
+   +++ VM10 2014-09-17 01:57:55 DEBUG   #000130 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   procName=OamGAUC
+   END OF REPORT #000130++-
+
+   +++ VM10 2014-09-17 01:57:55 DEBUG   #000131 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   serverName=GAUC, _serverid=0, servertyp=4
+   END OF REPORT #000131++-
+
+   +++ VM10 2014-09-17 01:57:55 DEBUG   #000132 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   _myQuename=OamGAUC_Q
+   END OF REPORT #000132++-
+
+   +++ VM10 2014-09-17 01:57:55 DEBUG   #000133 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   svcStartup()
+   END OF REPORT #000133++-
+
+   +++ VM10 2014-09-17 01:57:56 DEBUG   #000134 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000134++-
+
+   +++ VM10 2014-09-17 01:57:57 DEBUG   #000135 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15390
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1995 
+   OamCOMM Utility -- dtmiInit() : in while, please wait.
+   END OF REPORT #000135++-
+
+   +++ VM10 2014-09-17 01:57:57 DEBUG   #000136 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +2950 
+   OamCOMM Utility -- commOamServerStart_up : in DbtmiInit while, please wait.
+   END OF REPORT #000136++-
+
+   +++ VM10 2014-09-17 01:58:00 DEBUG   #000137 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000137++-
+
+   +++ VM10 2014-09-17 01:58:00 DEBUG   #000138 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 15463
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamAC
+   TL
+   END OF REPORT #000138++-
+
+   +++ VM10 2014-09-17 01:58:01 DEBUG   #000139 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000139++-
+
+   +++ VM10 2014-09-17 01:58:02 DEBUG   #000140 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000140++-
+
+   +++ VM10 2014-09-17 01:58:02 DEBUG   #000141 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000141++-
+
+   +++ VM10 2014-09-17 01:58:03 DEBUG   #000142 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000142++-
+
+   +++ VM10 2014-09-17 01:58:04 DEBUG   #000143 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000143++-
+
+   +++ VM10 2014-09-17 01:58:05 DEBUG   #000144 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000144++-
+
+   +++ VM10 2014-09-17 01:58:06 DEBUG   #000145 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000145++-
+
+   +++ VM10 2014-09-17 01:58:07 DEBUG   #000146 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000146++-
+
+   +++ VM10 2014-09-17 01:58:08 DEBUG   #000147 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000147++-
+
+   +++ VM10 2014-09-17 01:58:09 DEBUG   #000148 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000148++-
+
+   +++ VM10 2014-09-17 01:58:10 DEBUG   #000149 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000149++-
+
+   +++ VM10 2014-09-17 01:58:10 DEBUG   #000150 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 15463
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamLI
+   MGNT
+   END OF REPORT #000150++-
+
+   +++ VM10 2014-09-17 01:58:11 DEBUG   #000151 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000151++-
+
+   +++ VM10 2014-09-17 01:58:12 DEBUG   #000152 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000152++-
+
+   +++ VM10 2014-09-17 01:58:13 DEBUG   #000153 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000153++-
+
+   +++ VM10 2014-09-17 01:58:14 DEBUG   #000154 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000154++-
+
+   +++ VM10 2014-09-17 01:58:15 DEBUG   #000155 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000155++-
+
+   +++ VM10 2014-09-17 01:58:16 DEBUG   #000156 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000156++-
+
+   +++ VM10 2014-09-17 01:58:17 DEBUG   #000157 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000157++-
+
+   +++ VM10 2014-09-17 01:58:18 DEBUG   #000158 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000158++-
+
+   +++ VM10 2014-09-17 01:58:19 DEBUG   #000159 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000159++-
+
+   +++ VM10 2014-09-17 01:58:20 DEBUG   #000160 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000160++-
+
+   +++ VM10 2014-09-17 01:58:21 DEBUG   #000161 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000161++-
+
+   +++ VM10 2014-09-17 01:58:22 DEBUG   #000162 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000162++-
+
+   +++ VM10 2014-09-17 01:58:23 DEBUG   #000163 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000163++-
+
+   +++ VM10 2014-09-17 01:58:24 DEBUG   #000164 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000164++-
+
+   +++ VM10 2014-09-17 01:58:25 DEBUG   #000165 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000165++-
+
+   +++ VM10 2014-09-17 01:58:26 DEBUG   #000166 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000166++-
+
+   +++ VM10 2014-09-17 01:58:27 DEBUG   #000167 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000167++-
+
+   +++ VM10 2014-09-17 01:58:28 DEBUG   #000168 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000168++-
+
+   +++ VM10 2014-09-17 01:58:29 DEBUG   #000169 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000169++-
+
+   +++ VM10 2014-09-17 01:58:30 DEBUG   #000170 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3015 
+   OamCOMM Utility -- commOamServerStart_up : in bGoamInit while, please wait.
+   END OF REPORT #000170++-
+
+   +++ VM10 2014-09-17 01:58:31 DEBUG   #000171 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +3037 
+   OamCOMM Utility -- commOamServerStart_up : in bInitEvent while, please wait.
+   END OF REPORT #000171++-
+
+   +++ VM10 2014-09-17 01:58:33 DEBUG   #000172 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +695 
+   OamCOMM Utility -- isPopulationAlreadyDone(): in while,please wait.
+   END OF REPORT #000172++-
+
+   +++ VM10 2014-09-17 01:58:33 DEBUG   #000173 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +695 
+   OamCOMM Utility -- isPopulationAlreadyDone(): in while,please wait.
+   END OF REPORT #000173++-
+
+   +++ VM10 2014-09-17 01:58:34 DEBUG   #000174 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1446 
+   OamCOMM Utility -- getAppOnCurrentStation() --get DNlist : in while, please w
+   ait.
+   END OF REPORT #000174++-
+
+   +++ VM10 2014-09-17 01:58:34 DEBUG   #000175 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/init/Src/utility.cc +1334 
+   OamCOMM Utility -- getfSApp() -- get fSAApp : in while, please wait.
+   END OF REPORT #000175++-
+
+   +++ VM10 2014-09-17 01:58:35 DEBUG   #000176 0-0-1 >
+   REPT ERROR LOG OamCOMM, FILE ../AILogger.C, LINE 82
+   TID: 15385
+   File:/vob/oam_common_srv/src/specific/auc/Src/FirstImsiRangeMgnt.cc +340 
+   dnListLength is (0)
+   END OF REPORT #000176++-
+
+   +++ VM10 2014-09-17 01:58:55 DEBUG   #000177 0-0-1 >
+   REPT ERROR LOG OamACTL, FILE ../AILogger.C, LINE 82
+   TID: 15463
+   File:/oam_actl/src/infrastructure/distribution/Src/ApplicationSessionFactoryM
+   anagerImpl.cc +254 
+   ApplicationSessionFactoryManagerImpl::declareSessionFactory() called by OamCO
+   MM
+   END OF REPORT #000177++-
+
+   +++ VM10 2014-09-17 02:16:31 DEBUG   #000178 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_hss_sl/initdu4lte/src/LtePDLS.cc, line:467 
+   i returned by atoi: 1
+   END OF REPORT #000178++-
+
+   +++ VM10 2014-09-17 02:16:31 DEBUG   #000179 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_hss_sl/initdu4lte/src/LtePDLS.cc, line:676 
+   LtePDLS::svcInitialize() FraudList4PDLS Init() not finished, maybe FraudList 
+   func was disabled by configuration.
+   END OF REPORT #000179++-
+
+   +++ VM10 2014-09-17 02:16:35 DEBUG   #000180 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:58 
+    LteDbConnector::onConnect Begin 0
+   END OF REPORT #000180++-
+
+   +++ VM10 2014-09-17 02:16:35 DEBUG   #000181 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:62 
+   start to LoadProfiles!
+   END OF REPORT #000181++-
+
+   +++ VM10 2014-09-17 02:16:35 DEBUG   #000182 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:72 
+   data profile /sn/sps/SDM100/bin/data/lte-dataprofile.xml
+   END OF REPORT #000182++-
+
+   +++ VM10 2014-09-17 02:16:36 DEBUG   #000183 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:91 
+    LteDbConnector::onConnect LoadProfiles done 
+   END OF REPORT #000183++-
+
+   +++ VM10 2014-09-17 02:16:36 DEBUG   #000184 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:102 
+   LteDbConnector::onConnect call for end of popul
+   END OF REPORT #000184++-
+
+   +++ VM10 2014-09-17 02:16:36 DEBUG   #000185 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x879), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_usds_dbaccess/connector/lte/src/LteDbConnector.cc, line:104 
+   availableNrgKey=1, status=0
+   END OF REPORT #000185++-
+
+   +++ VM10 2014-09-17 02:16:52 DEBUG   #000186 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x875), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_hss_sl/initdu4lte/src/LtePDLS.cc, line:1542 
+   Could not get the Local Host information
+   END OF REPORT #000186++-
+
+   +++ VM10 2014-09-17 02:16:52 DEBUG   #000187 0-0-1 >
+   REPT DEBUG PDLSL1 TR (0x875), FILE ../AILogger.C, LINE 119
+   File:/vob/sdm_hss_sl/initdu4lte/src/LtePDLS.cc, line:1122 
+   Diameter Stack Init failed!
+   END OF REPORT #000187++-
+
+   +++ VM10 2014-09-17 02:16:53 DEBUG   #000188 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000188++-
+
+   +++ VM10 2014-09-17 02:16:54 DEBUG   #000189 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000189++-
+
+   +++ VM10 2014-09-17 02:16:54 DEBUG   #000190 0-0-1 >
+   REPT ERROR LOG OamGAUC, FILE ../AILogger.C, LINE 82
+   handle_ProcDeathEvent()
+   END OF REPORT #000190++-
+
+   +++ VM10 2014-09-17 02:21:54 DEBUG   #000191 0-0-1 >
+   REPT ERROR LOG INIT, FILE /n/plfsR4001/SOURCE/40.5.src/cc/init/proc/INtimerpr
+   c.C, LINE 211
+   Invalid process entry 52
+   END OF REPORT #000191++-
+
