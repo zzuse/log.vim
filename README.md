@@ -1,5 +1,3 @@
-# log.vim
-TODO 
+# INFO 
 please refer to  ~/opt/share/vim/vim80/syntax/messages.vim 
-TMR sdb
-ERROR 
+Some VIM Highlighter for logs and ERROR messages
